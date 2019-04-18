@@ -8,3 +8,4 @@ version 0.1.0
 Mickael Gallard
 
 lorem upsum
+Test stash
